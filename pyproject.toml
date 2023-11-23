@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cd_sql"
-version = "0.0.2"
+version = "0.0.3"
 description = "This Python package provides a simple and intuitive wrapper for SQLAlchemy."
 readme = "README.md"
 authors = [
